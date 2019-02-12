@@ -8,6 +8,8 @@ You can - <br>
 <ul>
   <li><a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse/posts">Posts</a></li>
   <li><a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse/comments">Comments</a></li>
+  <li><a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse/users">Users</a></li>
+  <li><a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse/photos">Photos</a></li>
   <li><a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse/profile">Profile</a></li>
   <li><a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse/db">db</a></li>
 </ul>
