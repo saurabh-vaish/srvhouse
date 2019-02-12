@@ -3,7 +3,7 @@
 <h3>By : <a href="github.com/saurabh-vaish">Saurabh Vaish</a></h3>
 <hr>
 Try it <br>
-go to <a href="https://my-json-server.typicode.com/saurabh-vaish/myhouse">https://my-json-server.typicode.com/saurabh-vaish/myhouse</a>  and use as it a server . <br>
+go to <a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse">https://my-json-server.typicode.com/saurabh-vaish/srvhouse</a>  and use as it a server . <br>
 You can - <br>
 <ul>
   <li><a href="https://my-json-server.typicode.com/saurabh-vaish/srvhouse/posts">Posts</a></li>
